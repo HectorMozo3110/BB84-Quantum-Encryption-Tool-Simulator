@@ -1,0 +1,5 @@
+ProductID,ProductName,Price,InStock
+1001,Chair,49.99,True
+1002,Laptop,799.0,False
+1003,Mug,9.99,True
+1004,Headphones,199.95,True

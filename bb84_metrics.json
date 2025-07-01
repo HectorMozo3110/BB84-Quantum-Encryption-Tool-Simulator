@@ -1,0 +1,8 @@
+{
+  "Timestamp": "2025-06-15 15:16:53.208480",
+  "Decryption Time (s)": 0.089,
+  "HMAC Integrity Check": "Passed",
+  "SHA-256 Hash of Encrypted File": "4eff36c443070508133d76b2b02e97e28b1fe2754249b79c47cfc6721b870849",
+  "Decrypted File Size (bytes)": 117524,
+  "SHA-256 Hash of Decrypted File": "21ab8a8d008bf9938a1278eb15e12905fefbe43e1dc18773bda2b5e2a647c963"
+}
